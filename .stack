@@ -1,0 +1,11 @@
+{
+        "lang" : "MAVEN",
+        "mvngoals": {
+                "check": "checkstyle:check",
+                "clean": "clean",
+                "compile": "compile",
+                "run": "exec:java",
+                "runstdin": "exec:java",
+                "test": "test"
+        }
+}
